@@ -11,6 +11,8 @@ O TextView exibe o título da aplicação, enquanto o ImageView central apresent
 Os dados são dispostos lado a lado, e o botão "ROLL" está posicionado abaixo deles. 
 Assim, a aplicação oferece uma experiência interativa e visual, permitindo que os usuários simulem o lançamento de dados de forma divertida e simples.
 
+Um grande abranço para meu Amigo Marcos Diego Sousa Marques que foi fundamental nesse projeto. 
+
 
 
 
